@@ -1,3 +1,5 @@
+Tag: GenAI
+
 <img width="1920" height="1080" alt="Screenshot 2026-03-18 at 4 13 10 PM" src="https://github.com/user-attachments/assets/03adac41-78bd-46c1-b27a-04c3062f0a88" />
 
 ## 🚀 RAG-Based Research Tool
